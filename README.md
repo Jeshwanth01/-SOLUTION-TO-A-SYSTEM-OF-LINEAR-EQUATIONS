@@ -26,7 +26,7 @@ b=np.array([-9,4,-1])
 le=np.linalg.solve(a,b)
 print("the solution for the given matrix is",le)
 ## Output:
-"D:\exp 1 (ssc).png"
+![exp 1 (ssc)](https://github.com/Jeshwanth01/-SOLUTION-TO-A-SYSTEM-OF-LINEAR-EQUATIONS/assets/145525167/f85f2c24-b68d-4787-8d06-c71c619ef797)
 ## Result: 
 Thus the solutions for the linear equations are successfully solved using python program
 
