@@ -20,11 +20,13 @@ End the program
 #devoleped by : Jeshwanth r
 #registerNumber:2305003003
 
+```python
 import numpy as np
 a=np.array([[5,-3,-10],[2,2,-3],[-3,-1,5]])
 b=np.array([-9,4,-1])
 le=np.linalg.solve(a,b)
 print("the solution for the given matrix is",le)
+```
 ## Output:
 ![exp 1 (ssc)](https://github.com/Jeshwanth01/-SOLUTION-TO-A-SYSTEM-OF-LINEAR-EQUATIONS/assets/145525167/f85f2c24-b68d-4787-8d06-c71c619ef797)
 ## Result: 
